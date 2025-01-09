@@ -6,4 +6,5 @@
 4) We have to create a folder for different pages for this application in src folder, and create different components for each page in the folder.
 5) Set up a path for components using react-router-dom library
 6) Create a component folder to hold resuable codes in different pages of react app create component file inside it.
+7) To make api call in react : use `axios` library, axios(config) method, post, put, get, delete request.
 
